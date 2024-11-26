@@ -1,7 +1,7 @@
-# Lógica de Programação: Mergulhe em programação com JavaScript  
+# Lógica de Programação: Mergulhe em Programação com JavaScript  
 [![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)  
 
-Este repositório contém o projeto desenvolvido durante o curso **Lógica de programação: mergulhe em programação com JavaScript** oferecido pela [Alura](https://www.alura.com.br/).  
+Este repositório contém o projeto desenvolvido durante o curso **Lógica de Programação: Mergulhe em Programação com JavaScript**, oferecido pela [Alura](https://www.alura.com.br/).  
 
 ## Objetivos do Curso  
 Neste curso, você irá:  
@@ -22,6 +22,7 @@ Neste curso, você irá:
 - Aplicação seguindo padrões de boas práticas de programação.  
 - Desenvolvimento de uma aplicação prática do mundo real.  
 
-## Como Executar o Projeto  
-   ```bash  
- https://natymartinsgit.github.io/Jogo_do_numero-secreto_ALURA/
+## Acesso ao Projeto  
+Você pode acessar o projeto através do link abaixo:  
+
+[Jogo do Número Secreto - GitHub Pages](https://natymartinsgit.github.io/Jogo_do_numero-secreto_ALURA/)
