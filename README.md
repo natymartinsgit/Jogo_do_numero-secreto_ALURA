@@ -24,4 +24,4 @@ Neste curso, você irá:
 
 ## Como Executar o Projeto  
    ```bash  
-   file:///C:/Users/nmart/OneDrive/%C3%81rea%20de%20Trabalho/Imers%C3%A3o%20back%20end/logica-js-projeto_inicial/logica-js-projeto_inicial/index.html
+ https://natymartinsgit.github.io/Jogo_do_numero-secreto_ALURA/
